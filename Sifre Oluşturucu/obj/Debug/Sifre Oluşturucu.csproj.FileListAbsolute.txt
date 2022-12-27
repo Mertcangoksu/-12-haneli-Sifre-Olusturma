@@ -1,0 +1,11 @@
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\bin\Debug\Sifre Oluşturucu.exe.config
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\bin\Debug\Sifre Oluşturucu.exe
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\bin\Debug\Sifre Oluşturucu.pdb
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre Oluşturucu.csproj.AssemblyReference.cache
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre Oluşturucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre_Oluşturucu.Form1.resources
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre_Oluşturucu.Properties.Resources.resources
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre Oluşturucu.csproj.GenerateResource.cache
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre Oluşturucu.csproj.CoreCompileInputs.cache
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre Oluşturucu.exe
+C:\Users\coman\Desktop\dersler\Sifre Oluşturucu\Sifre Oluşturucu\obj\Debug\Sifre Oluşturucu.pdb
